@@ -2,8 +2,7 @@ package array;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class LeetCodeP1431 {
 
